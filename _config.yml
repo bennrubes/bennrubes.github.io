@@ -1,11 +1,11 @@
 # Site settings
-author: Sam Bennrubi
-title: 
+author: Samuel Bennrubi
+title: Coding with SB: A Journey for Knowledge
 header-img: img/home-bg.png
 email: sbennrubi@gmail.com
-copyright_name: Sam Bennrubi
+copyright_name: Samuel Bennrubi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning and Sharing
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bennrubes
