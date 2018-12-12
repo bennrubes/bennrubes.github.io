@@ -1,0 +1,16 @@
+---
+layout: post
+title:      "My Journey to Becoming a Developer"
+date:       2018-12-12 04:05:34 +0000
+permalink:  my_journey_to_becoming_a_developer
+---
+
+Some things in life just continue to come back to us. Unfortunately, sometimes it takes four or five times for us to realize the value and opportunity they might provide. For me, one of those was coding and it took me quite some time to really take the initiative to pursue it. The path of programming presented itself to me in multiple different ways from variations on video games to the core knowledge in how-to books. All of these experiences led me to my journey of becoming a developer.
+
+From a young age I was introduced to computers, of course being in the millenial generation that wasn't necessarily a suprise. My first introduction to the possibilities of coding was more subtle than I realized. Naturally, as a child, entertainment was a large interest so my brother and I got into gaming together. A lot of the games we played were very structured and directed, but there were a few that had online options in which players could create their own versions of custom games. Now at the time I was excited by the near limitless options in which I could now play, but I always wanted to create my own. I was too young and distracted to learn or comprehend the development that went into these branches of the game, but it sparked my interest for something bigger.
+
+As I got older I saw many more instances of these user-derivations of games, then more applications still not knowing the details and development that went into all of them. My curiosity grew and I eventually found myself looking around for free tutorials and self-start books on things like ethical hacking, cyber security, and general programming. I tried to get started on my own but was still not fully invested and couldn't fully understand all the languages or know which ones to pursue. My desire and interest and grown but I still had other distractions and influences directing me elsewhere.
+
+It wasn't until the last year where I really saw how wide my options would be if I learned how to code. I saw how in current society technology had advanced and would only continue to grow leaving endless opportunity for those with the knowledge to program and code. I felt stagnant at my current job like my learning had stopped, and I needed a change. I switched my job to something more felxible and did my research between courses that would be short enough that I wouldn't need a full new degree but thorough enough that it would drive the knowledge into me. When I started my prep and prework with Flatiron I was immediately shown how helpful and inclusive the coding community is.
+
+Now that I have begun my journey to becoming a developer, I have gotten a glimpse at one of the most collective and co-operative fields I've know of. Friendly peers, students, and teachers all continuously learning and sharing. Some opportunities may continue to present themselves, others may only come around once. I'm glad that this oppotunity kept showing up in my life and I couldn't be more excited to get started in this new world and possible career. I'm looking forward to my journey forward and what the furture holds.
